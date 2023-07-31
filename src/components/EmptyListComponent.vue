@@ -1,6 +1,6 @@
 <template>
   <div class="empty-image">
-    <img src="Group.png" alt="" />
+    <img src="../assets/Group.png" alt="" />
   </div>
   <div class="empty-info">
     <b class="empty-title">По данным параметрам ничего не найдено</b>
